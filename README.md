@@ -83,14 +83,23 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center">
-                <img src="https://github.com/user-attachments/assets/d56b26e2-da7a-465a-92d8-952a3a3d43c6" alt="Creative Design" width="400" height="400" style="border-radius: 50%;">
+            <td>
+                <table>
+                  <tr>
+                    <td>
+                      <img src="https://github.com/user-attachments/assets/d56b26e2-da7a-465a-92d8-952a3a3d43c6" alt="Creative Design" width="220" height="350" style="border-radius: 50%;">
+                    </td>
+                    <td>
+                      <img src="https://github.com/user-attachments/assets/5d3eb1cd-3dd3-4baf-ad08-138858ac357f" alt="Creative Design" width="250" height="350" style="border-radius: 50%;">
+                    </td>
+                  </tr>
+                </table>
             </td>
             <td align="center">
-                <img src="https://github.com/user-attachments/assets/07f21b57-5c99-4d35-88f2-daaa40fa9aee" alt="IN-JEJU" width="400" height="400" style="border-radius: 50%;">
+                <img src="https://github.com/user-attachments/assets/07f21b57-5c99-4d35-88f2-daaa40fa9aee" alt="IN-JEJU" width="400" height="350" style="border-radius: 50%;">
             </td>
             <td align="center">
-                <img src="https://github.com/user-attachments/assets/placeholder-for-award" alt="WE-Meet Project" width="400" height="400" style="border-radius: 50%;">
+                <img src="https://github.com/user-attachments/assets/878838f4-8477-474d-8750-ad8449a5af8b" alt="WE-Meet Project" width="400" height="350" style="border-radius: 50%;">
             </td>
         </tr>
     </tbody>
